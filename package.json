@@ -1,0 +1,25 @@
+{
+  "name": "github-page",
+  "version": "1.0.0",
+  "description": "A project for testing github pages",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-beier/g-beier.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g-beier/g-beier.github.io/issues"
+  },
+  "homepage": "https://github.com/g-beier/g-beier.github.io#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  },
+  "dependencies": {
+    "eslint": "^9.17.0"
+  }
+}
